@@ -1,0 +1,1 @@
+Les "proto" (prototypes ou protocoles) dans une architecture microservices, comme dans NestJS, servent à définir une sorte de contrat entre les différents services. Ils sont comme des règles ou des directives que chaque service doit suivre lorsqu'il communique avec d'autres services.
